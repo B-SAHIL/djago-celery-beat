@@ -19,7 +19,7 @@ Before you begin, ensure that you have the following prerequisites installed on 
 1. **Clone the Repository**
 
    ```shell
-   git clone https://github.com/B-SAHIL/django-login-jwt.git
+   git clone https://github.com/B-SAHIL/djago-celery-beat.git
    ```
 
 

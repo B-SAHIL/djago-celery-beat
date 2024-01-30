@@ -1,3 +1,5 @@
+# templates are AI generated
+
 # Django App Setup Guide
 
 This guide will walk you through the process of setting up a Django app Celery, Celery Beat and creating schedule  task &  AsyncTask. 

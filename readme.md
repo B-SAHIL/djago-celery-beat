@@ -1,4 +1,4 @@
-# templates are AI generated
+# Django templates are AI generated
 
 # Django App Setup Guide
 
